@@ -27,4 +27,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: username/repository:latest  # Заменить на свой Docker Hub репозиторий
+        tags: arman0425/testing:latest  # Заменить на свой Docker Hub репозиторий
